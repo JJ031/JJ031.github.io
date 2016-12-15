@@ -18,10 +18,17 @@ html {
 }
 
 body {
-	background: #0000cc;
+	background: url(""); 
+  background-repeat: no-repeat;	
+  background-attachment; fixed;	
   font: 18px/1.4 $helvetica;
   color: $helvetica;
 }
+
+table { 
+    border-collapse: collapse;	
+    color: #ffffff
+}		    
 
 .container {
   margin: 0 auto;
