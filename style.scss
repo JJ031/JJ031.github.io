@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: #ff9900;
   }
 }
 
@@ -133,7 +133,7 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: #ff9900;
   background: $lightGray;
 }
 ::selection {
@@ -267,7 +267,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: #ffffff;
+    color: #ff9900;
     font-size: 22px;
     font-style: italic;
   }
