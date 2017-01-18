@@ -22,7 +22,7 @@ body {
   background-repeat: no-repeat;	
   background-attachment: fixed;	
   font: 18px/1.4 $helvetica;
-  color: #ffa31a;
+  color: #ffffff;
 }
 
 table { 
@@ -139,7 +139,7 @@ img {
   background: $lightGray;
 }
 ::selection {
-  color: #ffa31a;
+  color: #ffffff;
   background: $lightGray;
 }
 
@@ -269,7 +269,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: #ff8000;
+    color: #ffffff;
     font-size: 22px;
     font-style: italic;
   }
