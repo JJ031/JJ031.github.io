@@ -1,5 +1,5 @@
 ---
-title: Copy of Codecademy
+title:  Codecademy
 layout: post
 author: jaymin.bhatt
 permalink: /copy-of-codecademy/
