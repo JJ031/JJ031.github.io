@@ -41,13 +41,13 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Today, we started on a new Website called Codecademy, which is specialised to teach you into the depths of Coding. For example, Python is a high-level programming language. We had to complete many different codes and be able to complete them. Whilst completing some of the codes, I worked with the person next to me, as I felt that It would help me and my partner, by learning off each other. In addition most of the tasks used functions that I was used to, such as : Repeat, Print and End. </td>
+    <td>Today, we started on a new Website called Codecademy, which is specialised to teach you into the depths of Coding. For example, Python is a high level programming language. We had to complete many different codes and be able to complete them. Whilst completing some of the codes, I worked with the person next to me, as I felt that It would help me and my partner, by learning off each other. In addition most of the tasks used functions that I was used to, such as  Repeat, Print and End. </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Even though, working with my partner helped me learn new things, t limited my Independency to learn new things by myself.</td>
+    <td>Even though, working with my partner helped me learn new things,  limited my Independency to learn new things by myself.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
